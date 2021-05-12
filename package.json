@@ -4,7 +4,7 @@
   "dependencies": {
     "mysql2": "^2.1.0",
     "node-telegram-bot-api": "^0.40.0",
-    "nodemailer": "^6.4.6",
+    "nodemailer": "^6.4.16",
     "utf8": "^3.0.0",
     "xlsx-populate": "^1.21.0"
   },
